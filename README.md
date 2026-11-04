@@ -26,6 +26,8 @@ Powered by Google's Gemini API and LangChain, the agent uses Retrieval-Augmented
 
 Beyond answering questions, it can collect customer enquiries, capture lead information, and escalate specific requests to human support when necessary.
 
+<img src="customer_support_agent.png" width="750" />
+
 ## ✧ Key Features
 
 - **RAG-based Responses:** Retrieves relevant business information from a custom knowledge base before generating answers.
