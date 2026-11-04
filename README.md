@@ -1,4 +1,3 @@
-<img width="1457" height="1080" alt="customer_support_agent" src="https://github.com/user-attachments/assets/a24fdfa0-909b-405d-8746-c8344d6fd6fe" />
 # ✦ Customer Support Agent
 
 <p align="center">
@@ -27,9 +26,7 @@ Powered by Google's Gemini API and LangChain, the agent uses Retrieval-Augmented
 
 Beyond answering questions, it can collect customer enquiries, capture lead information, and escalate specific requests to human support when necessary.
 
-<p align="center">
-  <img src="./customer_support_agent.png" width="750" alt="Customer Support Agent Preview" />
-</p>
+<img  width="700" alt="customer_support_agent" src="https://github.com/user-attachments/assets/a24fdfa0-909b-405d-8746-c8344d6fd6fe" />
 
 ## ✧ Key Features
 
