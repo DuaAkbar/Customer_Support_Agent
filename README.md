@@ -1,3 +1,4 @@
+<img width="1457" height="1080" alt="customer_support_agent" src="https://github.com/user-attachments/assets/a24fdfa0-909b-405d-8746-c8344d6fd6fe" />
 # ✦ Customer Support Agent
 
 <p align="center">
