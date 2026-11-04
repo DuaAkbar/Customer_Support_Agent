@@ -53,7 +53,6 @@ Beyond answering questions, it can collect customer enquiries, capture lead info
 | Vector Store | MongoDB Atlas Vector Search |
 | Embeddings | Google Generative AI Embeddings |
 | Email | Nodemailer |
-| Monitoring | LangSmith |
 | API Testing | Postman |
 
 ## ✧ How It Works
@@ -151,8 +150,6 @@ npm install
 Create the required `.env` files for the backend and frontend.
 
 Add your API credentials, database connection string, and application configuration according to the environment variables used in the source code.
-
-**Important:** Never commit API keys, database credentials, or other sensitive environment variables.
 
 ### 5. Run the application
 
