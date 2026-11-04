@@ -1,7 +1,7 @@
 # ✦ Customer Support Agent
 
 <p align="center">
-  An AI-powered customer support assistant for **Saffron & Sage Home Kitchen**, designed to answer customer enquiries, retrieve business information, capture leads, and connect customers with human support.
+  An AI-powered customer support assistant for >Saffron & Sage Home Kitchen<, designed to answer customer enquiries, retrieve business information, capture leads, and connect customers with human support.
 </p>
 
 ## ✧ Customizable for Any Business
